@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\InvoicementTechincalData\bin\Debug\netcoreapp3.1\InvoicementTechincalData.deps.json
+C:\Users\Usuario\source\repos\InvoicementTechincalData\bin\Debug\netcoreapp3.1\InvoicementTechincalData.dll
+C:\Users\Usuario\source\repos\InvoicementTechincalData\bin\Debug\netcoreapp3.1\InvoicementTechincalData.pdb
+C:\Users\Usuario\source\repos\InvoicementTechincalData\obj\Debug\netcoreapp3.1\InvoicementTechincalData.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\InvoicementTechincalData\obj\Debug\netcoreapp3.1\InvoicementTechincalData.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\InvoicementTechincalData\obj\Debug\netcoreapp3.1\InvoicementTechincalData.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\InvoicementTechincalData\obj\Debug\netcoreapp3.1\InvoicementTechincalData.dll
+C:\Users\Usuario\source\repos\InvoicementTechincalData\obj\Debug\netcoreapp3.1\InvoicementTechincalData.pdb
+C:\Users\Usuario\source\repos\InvoicementTechincalData\bin\Debug\netcoreapp3.1\InvoicementTechincalData.runtimeconfig.json
+C:\Users\Usuario\source\repos\InvoicementTechincalData\bin\Debug\netcoreapp3.1\InvoicementTechincalData.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\InvoicementTechincalData\obj\Debug\netcoreapp3.1\InvoicementTechincalData.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\InvoicementTechincalData\obj\Debug\netcoreapp3.1\InvoicementTechincalData.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\bin\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.deps.json
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\bin\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.dll
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\bin\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.pdb
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\bin\Debug\netcoreapp3.1\InvoicementTechincalData.dll
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\bin\Debug\netcoreapp3.1\InvoicementTechincalData.pdb
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\obj\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\obj\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\obj\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\obj\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\obj\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.csproj.CopyComplete
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\obj\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.dll
+C:\Users\Usuario\source\repos\InvoicementTechnicalBusiness\obj\Debug\netcoreapp3.1\InvoicementTechnicalBusiness.pdb
